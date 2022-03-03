@@ -1,0 +1,29 @@
+name: Public events
+timezone: Europe/Helsinki
+
+events:
+  - summary: MPI introduction
+    #id: mpi_introduction
+    description: |
+      In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+      and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+      will build up towards more advanced and realistic examples commonly found in computational physics and
+      chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+      with hybrid parallel programming.
+      https://scicomp.aalto.fi/training/scip/mpi-introduction/
+    location: Online, register for connection details
+    begin: 2022-03-03 10:00:00
+    duration: { hours: 3 }
+  - summary: MPI introduction
+    #id: mpi_introduction
+    description: |
+      In this introduction to MPI programming we are going to cover all the basic functionalities of the API,
+      and see how these are applied to real problems. Starting from simple, well-established algorithms, we
+      will build up towards more advanced and realistic examples commonly found in computational physics and
+      chemistry. Finally, we will explore how the strengths of OpenMP multithreading and MPI can be combined
+      with hybrid parallel programming.
+      https://scicomp.aalto.fi/training/scip/mpi-introduction/
+    location: Online, register for connection details
+    begin: 2022-03-03 10:00:00
+    duration: { hours: 3 }
+
