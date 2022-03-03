@@ -1,4 +1,4 @@
-# git-calendar for $organization
+# git-calendar for Aalto Scicomp
 
 Manage calendar events (converting them to an iCalendar feed, which
 can be imported into different calendar programs.  The complied feeds
