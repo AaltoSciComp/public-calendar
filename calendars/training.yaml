@@ -2,6 +2,16 @@ name: Public events
 timezone: Europe/Helsinki
 
 events:
+  - &anonymization202204 
+    summary: Hands-on Data Anonymization
+    #id: anonymization202204
+    description: |
+      Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
+    duration: { hours: 3 }
+    begin: 2022-04-04 12:00:00
+  - <<: *anonymization202204  
+    begin: 2022-04-06 12:00:00
+
   - &debug202204 
     summary: Debugging with Python, Matlab, and C/C++
     #id: debug202204
