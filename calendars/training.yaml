@@ -2,6 +2,24 @@ name: Public events
 timezone: Europe/Helsinki
 
 events:
+  - &coderifenery202203 
+    summary: Code Refinery Workshop
+    #id: linux_shell
+    description: |
+      https://coderefinery.org/workshops/upcoming/
+    duration: { hours: 3.5 }
+    begin: 2022-03-22 10:00:00
+  - <<: *coderifenery202203 
+    begin: 2022-03-23 10:00:00
+  - <<: *coderifenery202203 
+    begin: 2022-03-24 10:00:00
+  - <<: *coderifenery202203 
+    begin: 2022-03-29 10:00:00
+  - <<: *coderifenery202203 
+    begin: 2022-03-30 10:00:00
+  - <<: *coderifenery202203 
+    begin: 2022-03-31 10:00:00
+
   - &linuxshell202203 
     summary: Linux Shell Scripting
     #id: linux_shell
