@@ -65,13 +65,13 @@ events:
       We expect that course participants are familiar with the shell basics (experience with BASH, ZSH, etc). We somewhat touch the Part 1 of the Linux Shell tutorial, and continue to Part 2. Though we expect that participant knows how to create a directory and can edit file from the linux shell command line. We will be scripting a lot, there will be lots of demos and real practicing.location: Online, register for connection details
       https://scicomp.aalto.fi/training/scip/shell-scripting/
     duration: { hours: 3 }
-    begin: 2022-03-21 10:00:00
+    begin: 2022-03-21 12:00:00
   - <<: *linuxshell202203
-    begin: 2022-03-25 10:00:00
+    begin: 2022-03-25 12:00:00
   - <<: *linuxshell202203
-    begin: 2022-03-28 10:00:00
+    begin: 2022-03-28 12:00:00
   - <<: *linuxshell202203
-    begin: 2022-04-01 10:00:00
+    begin: 2022-04-01 12:00:00
 
   - summary: MPI introduction
     #id: mpi_introduction
