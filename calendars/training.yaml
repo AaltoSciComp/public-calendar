@@ -1,6 +1,8 @@
 name: Public events
 timezone: Europe/Helsinki
 
+
+# Newer events added to the top
 events:
   - &kickstart-2022-summer
     summary: Scientific Computing Kickstart (+HPC kickstart)
@@ -51,9 +53,9 @@ events:
     duration: {hours: 4}
     begin: 2022-06-07 12:00:00
   - <<: *kickstart-2022-summer
-    begin: 2022-06-08 12:00:00
-  - <<: *kickstart-2022-summer
     begin: 2022-06-09 12:00:00
+  - <<: *kickstart-2022-summer
+    begin: 2022-06-10 12:00:00
 
 
   - &swd4sc202204
