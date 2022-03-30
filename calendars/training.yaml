@@ -6,7 +6,7 @@ events:
     summary: Software design for scientific computing
     #id: swd4sc202204
     description: |
-      Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
+      More info at: https://scicomp.aalto.fi/training/scip/software-design-2022/
     duration: { hours: 2 }
     begin: 2022-04-25 12:00:00
   - <<: *swd4sc202204
