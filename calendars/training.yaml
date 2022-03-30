@@ -2,31 +2,31 @@ name: Public events
 timezone: Europe/Helsinki
 
 events:
-  - &swd4sc202204 
+  - &swd4sc202204
     summary: Software design for scientific computing
     #id: swd4sc202204
     description: |
       Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
     duration: { hours: 2 }
     begin: 2022-04-25 12:00:00
-  - <<: *swd4sc202204   
+  - <<: *swd4sc202204
     begin: 2022-05-03 10:00:00
     duration: { hours: 4 }
-  - <<: *swd4sc202204   
+  - <<: *swd4sc202204
     begin: 2022-05-09 10:00:00
     duration: { hours: 5 }
-    
-  - &anonymization202204 
+
+  - &anonymization202204
     summary: Hands-on Data Anonymization
     #id: anonymization202204
     description: |
       Here you can register for our "Hands-on Data Anonymization 2022" More info at: https://scicomp.aalto.fi/training/scip/data-anonymization-workshop-2022/
     duration: { hours: 3 }
     begin: 2022-04-04 12:00:00
-  - <<: *anonymization202204  
+  - <<: *anonymization202204
     begin: 2022-04-06 12:00:00
 
-  - &debug202204 
+  - &debug202204
     summary: Debugging with Python, Matlab, and C/C++
     #id: debug202204
     description: |
@@ -34,30 +34,30 @@ events:
       https://docs.google.com/forms/d/e/1FAIpQLSclIA0HH-YeZZ6lhipjMKpfBFDF88WnsXCyc92OseCtdwLSSw/viewform
     duration: { hours: 3 }
     begin: 2022-04-20 12:00:00
-  - <<: *debug202204  
+  - <<: *debug202204
     begin: 2022-04-21 12:00:00
-  - <<: *debug202204  
+  - <<: *debug202204
     begin: 2022-04-22 12:00:00
 
-  - &coderifenery202203 
+  - &coderifenery202203
     summary: Code Refinery Workshop
     #id: coderifenery202203
     description: |
       https://coderefinery.org/workshops/upcoming/
     duration: { hours: 3.5 }
     begin: 2022-03-22 10:00:00
-  - <<: *coderifenery202203 
+  - <<: *coderifenery202203
     begin: 2022-03-23 10:00:00
-  - <<: *coderifenery202203 
+  - <<: *coderifenery202203
     begin: 2022-03-24 10:00:00
-  - <<: *coderifenery202203 
+  - <<: *coderifenery202203
     begin: 2022-03-29 10:00:00
-  - <<: *coderifenery202203 
+  - <<: *coderifenery202203
     begin: 2022-03-30 10:00:00
-  - <<: *coderifenery202203 
+  - <<: *coderifenery202203
     begin: 2022-03-31 10:00:00
 
-  - &linuxshell202203 
+  - &linuxshell202203
     summary: Linux Shell Scripting
     #id: linux_shell
     description: |
@@ -121,4 +121,3 @@ events:
     location: Online, register for connection details
     begin: 2022-03-18 10:00:00
     duration: { hours: 3 }
-
