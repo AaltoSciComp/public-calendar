@@ -87,17 +87,21 @@ events:
 
 
   - &debug202204
-    summary: Debugging with Python, Matlab, and C/C++
+    summary: Debugging with Python, Matlab, C/C++, Julia, and R
     #id: debug202204
     description: |
       Introduction to Debugging with Python, Matlab, and C/C++ April 2022. This is an online course available to anyone with an internet connection.
-      https://docs.google.com/forms/d/e/1FAIpQLSclIA0HH-YeZZ6lhipjMKpfBFDF88WnsXCyc92OseCtdwLSSw/viewform
+      https://scicomp.aalto.fi/training/scip/debugging-2022/
     duration: { hours: 3 }
     begin: 2022-04-20 12:00:00
   - <<: *debug202204
     begin: 2022-04-21 12:00:00
   - <<: *debug202204
     begin: 2022-04-22 12:00:00
+  - <<: *debug202204
+    begin: 2022-04-25 12:00:00
+  - <<: *debug202204
+    begin: 2022-04-26 12:00:00
 
 
 
